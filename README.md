@@ -1,5 +1,8 @@
 ### Yoo, I'm hhm-bjfu 👋
 
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=hhm-bjfu)]()
+![hhm-bjfu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hhm-bjfu&show_icons=true&count_private=true&theme=gotham)
+
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hhm-bjfu)
 
 - 🍻 Junior at 🇨🇳 [BJFU](https://m.bjfu.edu.cn/), _BSc in Computer Science_
